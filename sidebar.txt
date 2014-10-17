@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fui:home|Door43 (fui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fui|d43-fui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fui/archive/master.zip|d43-fui.zip]]
+
+**Recent Changes**
+{{changes>ns = fui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fui|Ethnologue data]]
+
